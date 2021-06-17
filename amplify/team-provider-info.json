@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-scaretrackvue-dev-132138-authRole",
+      "UnauthRoleArn": "arn:aws:iam::902653568080:role/amplify-scaretrackvue-dev-132138-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::902653568080:role/amplify-scaretrackvue-dev-132138-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-scaretrackvue-dev-132138-deployment",
+      "UnauthRoleName": "amplify-scaretrackvue-dev-132138-unauthRole",
+      "StackName": "amplify-scaretrackvue-dev-132138",
+      "StackId": "arn:aws:cloudformation:eu-west-2:902653568080:stack/amplify-scaretrackvue-dev-132138/fe6f46b0-2e57-11eb-97ff-0283d9cf08b8",
+      "AmplifyAppId": "d1y2w97xe5o128"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1y2w97xe5o128",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
